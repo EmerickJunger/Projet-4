@@ -1,4 +1,3 @@
-# robots.txt généré par <a href="https://busilearn.fr">Busilearn</a>
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
