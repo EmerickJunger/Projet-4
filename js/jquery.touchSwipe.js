@@ -530,4 +530,3 @@
         ALL: ALL_FINGERS
     }
 });
-
