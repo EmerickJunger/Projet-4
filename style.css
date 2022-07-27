@@ -15,6 +15,8 @@ cite{font-size: 22px;font-style:normal;color:dimgrey;}
 .name{font-size:20px;color:grey!important;margin-top:1%;}
 .space{margin-left:19%;width:62%;margin-bottom:3%;}
 .present{font-size:22px;width:45%;margin-left:27.5%;}
+.list{list-style:none;}
+a{text-decoration:none;}
 /*.bloc-bg-texture::before{content:"";background-size:2px 2px;position:absolute;top:0;bottom:0;left:0;right:0}
 .texture-paper::before{background:url(img/texture-paper.png);background-size:280px 280px}*/
 .b-parallax{background-attachment:fixed}
