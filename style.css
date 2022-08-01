@@ -17,8 +17,6 @@ cite{font-size: 22px;font-style:normal;color:dimgrey;}
 .present{font-size:22px;width:45%;margin-left:27.5%;}
 .list{list-style:none;;}
 a{text-decoration:none;}
-/*.bloc-bg-texture::before{content:"";background-size:2px 2px;position:absolute;top:0;bottom:0;left:0;right:0}
-.texture-paper::before{background:url(img/texture-paper.png);background-size:280px 280px}*/
 .b-parallax{background-attachment:fixed}
 .d-bloc{color:rgba(255,255,255,.7)}
 .d-bloc button:hover{color:rgba(255,255,255,.9)}
