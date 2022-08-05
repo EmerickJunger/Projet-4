@@ -15,7 +15,7 @@ cite{font-size: 22px;font-style:normal;color:dimgrey;}
 .name{font-size:20px;color:grey!important;margin-top:1%;}
 .space{margin-left:19%;width:62%;margin-bottom:3%;}
 .present{font-size:22px;width:45%;margin-left:27.5%;}
-.list{list-style:none;;}
+.list{list-style:none;padding-left:10%;}
 a{text-decoration:none;}
 .b-parallax{background-attachment:fixed}
 .d-bloc{color:rgba(255,255,255,.7)}
@@ -47,7 +47,7 @@ a{text-decoration:none;}
 .row.row-no-gutters > [class^="col-"],.row.row-no-gutters > [class*=" col-"]{padding-right:0;padding-left:0}
 #bloc-1-hero h1{font-size:32px}
 .up{margin-top: 1%;}
-.placement{position:absolute;top:38%;right:5%;transform:translate(0,-50%);-webkit-transform:translateY(-50%)}
+.placement{position:absolute;top:38%;right:2%;width:21%;transform:translate(0,-50%);-webkit-transform:translateY(-50%)}
 .navbar{margin-bottom:0;z-index:1}
 .navbar-brand{height:auto;padding:3px 15px;font-size:25px;font-weight:400;font-weight:600;line-height:44px}
 .navbar-brand img{height: 80px;margin:0 5px 0 0;display:inline}
@@ -62,7 +62,7 @@ a{text-decoration:none;}
 .navbar-toggle .icon-bar{background-color:rgba(0,0,0,.5);width:26px}
 .nav-invert .navbar .nav{float:left}
 .nav-invert .navbar-header,.nav-invert .navbar-brand{float:right;position:relative;z-index:2}
-@media (min-width: 768px) {
+@media (min-width:768px) {
 .site-navigation{position:absolute;top:50%;right:20px;transform:translate(0,-50%);-webkit-transform:translateY(-50%)}
 .nav > li .dropdown-menu a,.nav > li .dropdown-menu a:hover{color:#484848}
 .nav-invert .site-navigation{left:0;right:0}
@@ -120,11 +120,10 @@ p{font-size:14px}
 .tight-width-whitespace{margin:auto}
 .h1{font-size:20px;font-family:"Open Sans"}
 .cta-hero{margin-top:22px;color:#FFF!important;text-transform:uppercase;padding:12px 28px;font-size:16px;font-weight:700}
-.social{width:50%;margin-left:24%;margin-top:40px;margin-bottom: 30px;}
+.social{width:50%;margin-left:20%;margin-top:40px;margin-bottom: 30px;}
 h2{font-size:22px;line-height:1.4em}
 h3{font-size:16px;text-transform:uppercase;font-weight:700;color:#333!important}
 .form-1{font-size:16px;text-transform:uppercase;font-weight:700;color:#333!important}
-/*.form-2{font-size:22px;line-height:1.4em}*/
 .med-width-whitespace{max-width:800px;margin:auto;box-shadow:0 0 0 #000}
 h1{color:#333!important}
 h4{color:#333!important}
